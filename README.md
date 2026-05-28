@@ -231,3 +231,14 @@ create-lingxi/
 每个人都是独一无二的。ta 的口头禅、ta 生气时的样子、ta 安慰你的方式——这些细微的东西构成了一个人。
 
 灵犀要做的，就是把这些碎片拼起来，让在意的人不再只是记忆里的一个名字。
+
+## License / 许可证
+
+This project is licensed under the MIT License.
+
+Original Copyright (c) 2026 therealXiaomanChu  
+Modifications Copyright (c) 2026 LPZ55556
+
+See the [LICENSE](./LICENSE) file for details.
+
+本项目基于 MIT License 开源。原始代码版权归 therealXiaomanChu 所有，修改部分版权归 LPZ55556 所有。详细内容请查看 [LICENSE](./LICENSE) 文件。
