@@ -28,10 +28,10 @@ Supports: Friends · Lovers · Family · Colleagues · Mentors · Anyone you car
 ```bash
 # Install to current project
 mkdir -p .claude/skills
-git clone https://github.com/your-repo/lingxi-skill .claude/skills/create-lingxi
+git clone https://github.com/LPZ55556/lingxi-skill .claude/skills/create-lingxi
 
 # Or install globally
-git clone https://github.com/your-repo/lingxi-skill ~/.claude/skills/create-lingxi
+git clone https://github.com/LPZ55556/lingxi-skill ~/.claude/skills/create-lingxi
 ```
 
 ### Dependencies (optional)
